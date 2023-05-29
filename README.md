@@ -12,7 +12,7 @@ project file: https://github.com/EDGE7293/DISH.git
   
 <img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/fdd6c301-509e-4c1d-a285-d24a513ed1a3.png" width="300px">  
   
-<img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/c1d5d847-20ed-40dc-9c38-54a43de0e146.png" width="300px">  
+<img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/c1d5d847-20ed-40dc-9c38-54a43de0e146.png" width="600px">  
   
   
   
@@ -22,14 +22,15 @@ project file: https://github.com/EDGE7293/DISH.git
   
 <img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/fcd49c60-593d-4a91-804f-4821d7921370.png" width="300px">  
   
+#### 지도API 연결 후 길 찾기 / (오른쪽 상단 버튼) 119에 구조문자 보내기  
 <img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/6aeb6eaa-72f6-4187-b603-db15163773de.png" width="300px">  
   
 <img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/ebf78408-2ca7-4cd0-8447-1bce8990b533.png" width="300px">  
   
   
 ### 커뮤니티  
-<img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/285f85d4-fb36-470c-b1c4-9c53173285f7.png" width="700px">  
-<img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/00215ae9-0417-450b-97e0-a03369593b34.png" width="700px">  
+<img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/285f85d4-fb36-470c-b1c4-9c53173285f7.png" width="600px">  
+<img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/00215ae9-0417-450b-97e0-a03369593b34.png" width="600px">  
 
 ### etc  
 <img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/a61e6efc-b2a6-43ad-8c3d-e10cfd5aa7f6.png" width="300px">  
