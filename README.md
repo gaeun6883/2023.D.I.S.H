@@ -29,5 +29,9 @@ project file: https://github.com/EDGE7293/DISH.git
   
 ## 서버  
 ### 전체 패키지  
+![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/20b54e0f-9b49-4017-ab1f-819e88fb0d62)  
 ### 산 정보 Json 파일 읽고 필요한 정보만 뽑아 전송하기  
+![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/a3b8cbc6-1901-474d-9cc6-f68a33654224)  
+![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/107bb400-0a6d-46e9-a0c3-722d0f50e656)  
 ### 이미지 비트로 변환해 저장하기  
+![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/2463a0c8-96e4-4ca9-a4fe-b1a33ded18c5)  
