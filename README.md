@@ -4,7 +4,7 @@ project.대인산행 / mobile app project
 project file: https://github.com/EDGE7293/DISH.git  
 사용 툴: 안드로이드 스튜디오, 스프링부트, 파이어베이스
 
-##모바일 ui  
+## 모바일 ui  
 ### 회원 관련 화면  
 ![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/2511df11-e994-4b0f-8aa5-0fe9520c3e51)  
 ![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/c1d5d847-20ed-40dc-9c38-54a43de0e146)  
@@ -23,4 +23,11 @@ project file: https://github.com/EDGE7293/DISH.git
 ![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/00215ae9-0417-450b-97e0-a03369593b34)  
 
 ### etc
-![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/a61e6efc-b2a6-43ad-8c3d-e10cfd5aa7f6)
+![image](https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/a61e6efc-b2a6-43ad-8c3d-e10cfd5aa7f6)  
+  
+  
+  
+## 서버  
+### 전체 패키지  
+### 산 정보 Json 파일 읽고 필요한 정보만 뽑아 전송하기  
+### 이미지 비트로 변환해 저장하기  
