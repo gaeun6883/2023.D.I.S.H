@@ -31,7 +31,6 @@ project file: https://github.com/EDGE7293/DISH.git
 <img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/f9b1db94-517d-4117-83d7-7605f50edf24.png" width="900px">
 <img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/d618c577-6382-455a-8ac0-d5ba281eaf01.png" width="900px">
 <img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/74202f88-b448-4aab-a678-a0f917165dbe.png" width="900px">
-<img src="https://github.com/gaeun6883/2023.D.I.S.H/assets/93725108/feee509a-b0dc-4859-9988-149306632caa.png" width="900px">
 
 ## 서버  
 #### 1.전체 패키지: CRUD 구현
